@@ -2,16 +2,13 @@
 
   <h3 align="center">ITECHDEVICE e-Commerce - React Curso de CoderHouse</h3>
 <br />
-<h3 align="center">Video de navegación en la WebApp (click para ver)</h3>
-  <a href="https://share.icloud.com/photos/001fq7M2tMzTt84ppBtPumaIg" target="_blank">
-    
-  </a>
 
   <p align="center">
     
    
 </div>
 
+Video de navegación en la WebApp: (https://share.icloud.com/photos/001fq7M2tMzTt84ppBtPumaIg)
 
 Proyecto Final E-commerce creado para el curso de ReactJS de CoderHouse.
 
