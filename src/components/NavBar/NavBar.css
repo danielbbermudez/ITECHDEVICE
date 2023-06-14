@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: bolder;
+}
+
+#carrito {
+    padding-right: 30px;
+  }
+
+  .nav-link {
+    padding-top: 5%;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .navbar-brand{
+    width: 70px;
+    filter: drop-shadow(0 4px 5px white);
+  }
+
